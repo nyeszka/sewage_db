@@ -1,7 +1,7 @@
 # sewage_db
-A multi-layered dataset from sewage across five European cities in an SQL database
+A multi-layered dataset from sewage across five European cities in an SQL database.
 
-# About the dataset
+## About the dataset
 
 We present a comprehensive dataset originating from our longitudinal sewage surveillance in five European cities: Copenhagen, Rotterdam, Budapest, Rome and Bologna over 9-19 months with variable time frames between the cities (2019-2021). This includes the data from shotgun metagenomic sequencing and qPCR (for pathogens) done on 230 samples (qpcr.csv, qpcr_primers.csv), as well as Hi-C sequencing and analysis results for 24 samples (proximeta-csv).
 
